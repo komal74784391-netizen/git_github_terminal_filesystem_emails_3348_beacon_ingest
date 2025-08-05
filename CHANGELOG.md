@@ -6,3 +6,4 @@ All notable changes to the ingest platform.
 - record the retention policy
 - refresh the on-call rotation
 - add a smoke test for the parser
+- note the new shard routing plan
