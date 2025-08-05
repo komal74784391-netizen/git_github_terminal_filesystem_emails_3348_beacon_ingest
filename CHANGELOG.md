@@ -5,3 +5,4 @@ All notable changes to the ingest platform.
 - tighten lint settings in CI
 - record the retention policy
 - refresh the on-call rotation
+- add a smoke test for the parser
