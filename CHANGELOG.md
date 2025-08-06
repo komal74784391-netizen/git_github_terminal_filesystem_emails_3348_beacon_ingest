@@ -7,3 +7,4 @@ All notable changes to the ingest platform.
 - refresh the on-call rotation
 - add a smoke test for the parser
 - note the new shard routing plan
+- clean up stale feature flags
