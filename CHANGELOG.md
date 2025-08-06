@@ -10,3 +10,4 @@ All notable changes to the ingest platform.
 - clean up stale feature flags
 - record the schema migration steps
 - document the metric naming rules
+- add a health check endpoint note
