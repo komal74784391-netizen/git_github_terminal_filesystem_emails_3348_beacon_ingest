@@ -9,3 +9,4 @@ All notable changes to the ingest platform.
 - note the new shard routing plan
 - clean up stale feature flags
 - record the schema migration steps
+- document the metric naming rules
