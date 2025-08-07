@@ -13,3 +13,4 @@ All notable changes to the ingest platform.
 - add a health check endpoint note
 - pin the protobuf dependency
 - improve the compaction benchmark
+- log the ingest throughput figures
