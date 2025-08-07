@@ -14,3 +14,4 @@ All notable changes to the ingest platform.
 - pin the protobuf dependency
 - improve the compaction benchmark
 - log the ingest throughput figures
+- review the timeout values
