@@ -15,3 +15,4 @@ All notable changes to the ingest platform.
 - improve the compaction benchmark
 - log the ingest throughput figures
 - review the timeout values
+- record the backpressure experiment
