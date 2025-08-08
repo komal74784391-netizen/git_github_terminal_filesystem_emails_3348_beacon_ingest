@@ -17,3 +17,4 @@ All notable changes to the ingest platform.
 - review the timeout values
 - record the backpressure experiment
 - document the replay tooling update
+- adjust the buffer defaults
