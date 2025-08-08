@@ -18,3 +18,4 @@ All notable changes to the ingest platform.
 - record the backpressure experiment
 - document the replay tooling update
 - adjust the buffer defaults
+- note the shard ring change
