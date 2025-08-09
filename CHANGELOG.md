@@ -22,3 +22,4 @@ All notable changes to the ingest platform.
 - update the local development guide
 - record the dependency audit
 - clarify the release checklist
+- document the alert thresholds
