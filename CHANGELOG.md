@@ -19,3 +19,4 @@ All notable changes to the ingest platform.
 - document the replay tooling update
 - adjust the buffer defaults
 - note the shard ring change
+- update the local development guide
