@@ -20,3 +20,4 @@ All notable changes to the ingest platform.
 - adjust the buffer defaults
 - note the shard ring change
 - update the local development guide
+- record the dependency audit
