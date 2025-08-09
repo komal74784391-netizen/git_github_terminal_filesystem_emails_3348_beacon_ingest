@@ -21,3 +21,4 @@ All notable changes to the ingest platform.
 - note the shard ring change
 - update the local development guide
 - record the dependency audit
+- clarify the release checklist
