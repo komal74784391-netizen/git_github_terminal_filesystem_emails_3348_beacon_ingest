@@ -23,3 +23,4 @@ All notable changes to the ingest platform.
 - record the dependency audit
 - clarify the release checklist
 - document the alert thresholds
+- add a note on segment sizing
