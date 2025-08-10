@@ -24,3 +24,4 @@ All notable changes to the ingest platform.
 - clarify the release checklist
 - document the alert thresholds
 - add a note on segment sizing
+- optimize stream compaction with adaptive flushing for burst traffic
