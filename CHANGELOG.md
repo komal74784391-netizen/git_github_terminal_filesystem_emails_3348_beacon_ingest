@@ -28,3 +28,4 @@ All notable changes to the ingest platform.
 - record the compaction experiment
 - add flush cadence helper for compaction backpressure
 - pin the protobuf dependency
+- improve the compaction benchmark
