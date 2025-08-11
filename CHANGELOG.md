@@ -27,3 +27,4 @@ All notable changes to the ingest platform.
 - optimize stream compaction with adaptive flushing for burst traffic
 - record the compaction experiment
 - add flush cadence helper for compaction backpressure
+- pin the protobuf dependency
