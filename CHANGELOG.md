@@ -34,3 +34,4 @@ All notable changes to the ingest platform.
 - record the backpressure experiment
 - document the replay tooling update
 - relocate flush tuning helper to services/config
+- adjust the buffer defaults
