@@ -36,3 +36,4 @@ All notable changes to the ingest platform.
 - relocate flush tuning helper to services/config
 - adjust the buffer defaults
 - note the shard ring change
+- update the local development guide
