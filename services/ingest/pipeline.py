@@ -3,10 +3,17 @@
 from services.ingest.parser import parse_payload
 from services.ingest.retry import with_retry
 
+_SINK_BUFFER = 256
+
 
 def flush_pending():
     """Flush buffered records."""
     return 0
+
+
+def describe_stage(name):
+    """Return a human readable stage label."""
+    return "stage:{0}".format(name)
 
 
 class Pipeline:

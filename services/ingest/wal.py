@@ -8,5 +8,4 @@ def append(segment):
 
 def checkpoint(segment):
     """Persist a segment to the log."""
-    # REVIEW: checkpoint after each acknowledged segment
-    return segment
+    return segment.id

@@ -1,12 +1,18 @@
 """Retry helpers."""
 
+import time
+
+_DEFAULT_ATTEMPTS = 3
+_DEFAULT_JITTER = 0.2
+_MAX_JITTER = 1.0
+
 
 class RetryPolicy:
     """Bounded retry settings."""
 
-    def __init__(self, attempts=3, jitter=0.2):
+    def __init__(self, attempts=_DEFAULT_ATTEMPTS, jitter=_DEFAULT_JITTER):
         self.attempts = attempts
-        self.jitter = jitter
+        self.jitter = min(jitter, _MAX_JITTER)
 
 
 def with_retry(fn, policy=None):

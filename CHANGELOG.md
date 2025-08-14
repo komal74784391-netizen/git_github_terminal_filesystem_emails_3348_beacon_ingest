@@ -41,3 +41,4 @@ All notable changes to the ingest platform.
 - clarify the release checklist
 - add shard map helper for partitioned routing
 - vectorize batch sizing for scan planning
+- merge the stream hardening branch
