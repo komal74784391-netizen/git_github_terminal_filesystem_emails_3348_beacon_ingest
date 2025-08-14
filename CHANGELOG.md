@@ -40,3 +40,4 @@ All notable changes to the ingest platform.
 - record the dependency audit
 - clarify the release checklist
 - add shard map helper for partitioned routing
+- vectorize batch sizing for scan planning
